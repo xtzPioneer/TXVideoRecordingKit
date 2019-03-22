@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'TXVideoRecordingKit_Example' do
+  pod 'TXVideoRecordingKit', :path => '../'
+  pod 'MGJRouterKit'
+  target 'TXVideoRecordingKit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

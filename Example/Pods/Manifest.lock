@@ -1,0 +1,28 @@
+PODS:
+  - MGJRouter (0.10.0)
+  - MGJRouterKit (0.1.1):
+    - MGJRouter
+  - TXVideoRecordingKit (0.1.0):
+    - MGJRouterKit
+
+DEPENDENCIES:
+  - MGJRouterKit
+  - TXVideoRecordingKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - MGJRouter
+    - MGJRouterKit
+
+EXTERNAL SOURCES:
+  TXVideoRecordingKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
+  MGJRouterKit: 63148c3d0bdac01ac570ae480996a58a086e0776
+  TXVideoRecordingKit: 149acd664fb9eb95885fd4e512bfe378a9a0af01
+
+PODFILE CHECKSUM: e75bf24fc8923d0b2a31503b101fef4d405dbe7f
+
+COCOAPODS: 1.5.0

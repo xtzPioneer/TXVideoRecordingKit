@@ -1,0 +1,6 @@
+framework module Pods_TXVideoRecordingKit_Example {
+  umbrella header "Pods-TXVideoRecordingKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
