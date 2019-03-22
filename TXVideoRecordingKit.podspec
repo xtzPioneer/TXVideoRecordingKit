@@ -36,7 +36,7 @@ Pod::Spec.new do |s|
   s.author           = { 'xtzPioneer' => 'xtz_pioneer@163.com' }
   
   # 资源所在地
-  s.source           = { :git => 'https://github.com/907689522@qq.com/TXVideoRecordingKit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xtzPioneer/TXVideoRecordingKit.git', :tag => s.version.to_s }
   
   # 社交URL
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
