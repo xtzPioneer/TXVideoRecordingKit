@@ -8,33 +8,35 @@
 
 /* Begin PBXBuildFile section */
 		0AEAF53CE6C7BE4D0AAA27D0A86F9694 /* Pods-TXVideoRecordingKit_Example-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 6F6639D2612012DE4FC035DE08D5F462 /* Pods-TXVideoRecordingKit_Example-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		0BA0319DB7D7339E4CF5EF9081B48C2D /* MGJRouter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = AB50139995E9B3BB723093B7D24B35DD /* MGJRouter-dummy.m */; };
+		0BA0319DB7D7339E4CF5EF9081B48C2D /* MGJRouter-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8638821CC52BD3A5C0C869BAE3FFD9A4 /* MGJRouter-dummy.m */; };
+		0F7D6433ECC181D2550FFC791A57D7E1 /* MGJRouterKit.h in Headers */ = {isa = PBXBuildFile; fileRef = CC058C14427F272786A12CB3A498FBF4 /* MGJRouterKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		1811F2764A85B132C71C528E92653FB1 /* TXVideoRecordingKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 4D7E93E8E415FFD3C28E6963C2C71FEF /* TXVideoRecordingKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		21F40983D712F4FE5B5652F9F1B96446 /* MGJRouterKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 9645013994C89AA5419518289C0511A4 /* MGJRouterKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		271F28BEC9DD769E98C43D69070DC159 /* sight_video_focus@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = C6E5AD99547E43ED005B6B36BE4F694C /* sight_video_focus@2x.png */; };
 		2D4E44369B3821CE873474D25DE4E1A6 /* TXCameraButton.h in Headers */ = {isa = PBXBuildFile; fileRef = A0202F0751428F5ED5037E382CFDEE66 /* TXCameraButton.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		2D60B093635C823EE230E7E6FF139E3A /* MGJRouterKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = C22CE879A6EE5EA253EF7840CF97D350 /* MGJRouterKit-dummy.m */; };
 		3072ED2061A560B8348A1EF1066CE860 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77B32224AC41F965855F261FD08129E2 /* Foundation.framework */; };
 		365B9A4864940975AB9CFDF50C0C6259 /* TXPhotoLibraryManager.h in Headers */ = {isa = PBXBuildFile; fileRef = A0B84390075EC88890C61FCAFBD384D6 /* TXPhotoLibraryManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		412E229E6E5583844972623EEAF600D3 /* icon_finish_p@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E6B827168A4DBEB142F36E16E493F14E /* icon_finish_p@2x.png */; };
 		423AFB455546E7368AA52743149789A5 /* sight_video_focus@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = DE695E4D6FD1C07CD7FDDB015B4B40C8 /* sight_video_focus@3x.png */; };
 		42B4BFF7FC2CCF30585CA9A84553F48A /* icon_return_p@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5E21D7D1F7557E910716C3C72DBEC0B7 /* icon_return_p@3x.png */; };
-		4544B2684390C943546CEAEAEFDA9CF1 /* MGJRouter+TXCreateObject.h in Headers */ = {isa = PBXBuildFile; fileRef = 22136CEEF28C7DEB17F874AEBFD87928 /* MGJRouter+TXCreateObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		47438B73FD94FC2C3F7A230C7172C490 /* TXCameraController.h in Headers */ = {isa = PBXBuildFile; fileRef = 32AD4AFCB19979CA67D55F38BF3A1233 /* TXCameraController.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		4B99E56F2F8876C79680450713EFD056 /* MGJRouter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4A14DB202CFD4D40B398BB3C9C29873 /* MGJRouter.framework */; };
 		4D6905F3089FF9C0182675145A018ABF /* icon_close_@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 6CFD14BC700A8ABD37E31407A1B9633E /* icon_close_@2x.png */; };
 		4E4458D61E2F5D37F00A5F11484D7987 /* icon_close_@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = B5EFACA55D7146AF4D37685A04E54522 /* icon_close_@3x.png */; };
 		4F1042B37E6A0E71A7612F7DEEAE978E /* TXPhotoLibraryManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 4DB95FCB71739E41DB13CFE197D08D5D /* TXPhotoLibraryManager.m */; };
 		55134B49E3672102DED4B64EF7991CBE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77B32224AC41F965855F261FD08129E2 /* Foundation.framework */; };
-		574173215AB4D448706F622B24B98FAB /* MGJRouter+TXCreateObject.m in Sources */ = {isa = PBXBuildFile; fileRef = A35BDCE681E89EF6A5F5879A8C736304 /* MGJRouter+TXCreateObject.m */; };
 		5E50A0488BB22251764F2646158E94B2 /* TXCameraController.xib in Resources */ = {isa = PBXBuildFile; fileRef = A47C0089630D4E717F4EC91FD033E153 /* TXCameraController.xib */; };
 		5E97C9B1CB82389FFFB7A36800158A18 /* TXVideoRecordingModuleRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = 407E27AFCB16BB19C31209E93DF6172F /* TXVideoRecordingModuleRouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		72CAC00C1BCC05C65D02616F8C569F20 /* Pods-TXVideoRecordingKit_Example-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = E9267BA11E9DACE7B0B4C551A24B0DCD /* Pods-TXVideoRecordingKit_Example-dummy.m */; };
-		72EECA87FDC8704FCD8D58C8D35618BA /* MGJRouter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 536BD28117504A65532B89D00567A14A /* MGJRouter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		78E12E9EC4CEA99D6FAC961A0091B6F6 /* MGJRouterKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 36A5CC82032935806CA1FF27EF9B73B8 /* MGJRouterKit-dummy.m */; };
+		72EECA87FDC8704FCD8D58C8D35618BA /* MGJRouter-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C3ADEE0756966B23FB16F5BFA15F6F2D /* MGJRouter-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		80FBD12AEFC05B7F0074C2B132639D48 /* NSObject+TXTransfer.h in Headers */ = {isa = PBXBuildFile; fileRef = 72091802C2D84DFE96B600200EF016DD /* NSObject+TXTransfer.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		82511AFC7282A0704B9FD4B09D75FF75 /* TXVideoRecordingKit.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 7DBB79F2A3253316789031542BF3DF43 /* TXVideoRecordingKit.bundle */; };
-		8D904884D690B16012E78CFE35A63E7E /* MGJRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = F8E92C2C9F1FEA3E03004051F88AED03 /* MGJRouter.m */; };
+		8D904884D690B16012E78CFE35A63E7E /* MGJRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = BC12A756D660BC81DEC1EB1775303053 /* MGJRouter.m */; };
 		8F5ACEDF3E9D8701D6ADE0338A86DD1D /* MGJRouterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4331C7CA65FF5339A71B7AF8DA2ABB5D /* MGJRouterKit.framework */; };
 		903D1DF5217254F8C52C90679BA2C0B6 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77B32224AC41F965855F261FD08129E2 /* Foundation.framework */; };
 		9CC76290FA1CE68DB712BA816CD101D5 /* icon_finish_p@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 96A1CCBC9FB26ECCA765BEC7D3D466CF /* icon_finish_p@3x.png */; };
-		A019CAF44C4B381280C5D21EE8DA18C3 /* MGJRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = 5CA7344235DD8049D708835171E717D6 /* MGJRouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A019CAF44C4B381280C5D21EE8DA18C3 /* MGJRouter.h in Headers */ = {isa = PBXBuildFile; fileRef = 136D9DDF9B83E039F978007451CDE6FF /* MGJRouter.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A5D1BC932480A96F030693158F8DDCC2 /* TXCameraButton.m in Sources */ = {isa = PBXBuildFile; fileRef = DD065EAF0A51D16A7213514B8D2B1746 /* TXCameraButton.m */; };
 		AF1EDD3660B3ADC95FC5982D555F94DA /* TXCameraController.m in Sources */ = {isa = PBXBuildFile; fileRef = D9B17941139FDA596C89F3149120411D /* TXCameraController.m */; };
 		B7F9E27380FBD04AA2EB1E8BF2049DFA /* MGJRouter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4A14DB202CFD4D40B398BB3C9C29873 /* MGJRouter.framework */; };
@@ -42,27 +44,20 @@
 		B9F11B268A60C9039FD1B520453CA97D /* TXVideoRecordingModuleRouter.m in Sources */ = {isa = PBXBuildFile; fileRef = 368B6B47AD1848347E774A14677B7F19 /* TXVideoRecordingModuleRouter.m */; };
 		BC2DF3E7C7BBFC66EBA37C26404E3AB7 /* icon_change@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 5CACB1DF7F32B47FA4C796D2083B0FA9 /* icon_change@3x.png */; };
 		C55CF413957B1970272F73F577E5A798 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77B32224AC41F965855F261FD08129E2 /* Foundation.framework */; };
-		C66126CA5786C8E5747C6DF5369453AE /* MGJRouterKit.h in Headers */ = {isa = PBXBuildFile; fileRef = 5D5342AF98A6C72DAF8EC64E024E4F66 /* MGJRouterKit.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		C95558CC7E1F50AE270B5ED2E5790B59 /* TXVideoRecordingKit-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 06D8EC2224D6BE2CF6FE5746606F8E2C /* TXVideoRecordingKit-dummy.m */; };
+		CA75C55775FDF9074B1371D0ED1D353E /* MGJRouter+TXCreateObject.h in Headers */ = {isa = PBXBuildFile; fileRef = ABFE2D73684D39045D7E764E3727A303 /* MGJRouter+TXCreateObject.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		CEDBFD158D79075776FCA43874B16C4D /* NSObject+TXTransfer.m in Sources */ = {isa = PBXBuildFile; fileRef = 3A1C2E4B1CEF4C6F7B5464FBB1BE69B1 /* NSObject+TXTransfer.m */; };
 		D34C2FC6031D5403DAAFF766CC82B12E /* icon_change@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 968C4A67FA3EB59ED0655F613D94F35D /* icon_change@2x.png */; };
 		E18F128E2500FA0256273212E92F77F7 /* icon_return_n@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 1EC2415C2117CCA0BB3C0C37FD630B41 /* icon_return_n@3x.png */; };
 		E2AF9B75CAB217E9F65A1FFDDE9F6B5F /* icon_return_n@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 7B7514B37D33095C7492F1E62F038C8C /* icon_return_n@2x.png */; };
-		EBFE0F2DEAB732812FDE45F4D66CB34B /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77B32224AC41F965855F261FD08129E2 /* Foundation.framework */; };
-		F3472313261DDF67831FC2B97FF7CE84 /* MGJRouterKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = A179C47743F733489E590AD6A9E6C3CC /* MGJRouterKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		E60F0D9572E2E6DC6E2E336C8B28C8B4 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 77B32224AC41F965855F261FD08129E2 /* Foundation.framework */; };
 		F5765204F5E29FE5194E2B94AD7B220D /* TXVideoRecordingKit-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 0C602284DE7E823DF82A7CF9F03CA239 /* TXVideoRecordingKit-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		F5954A4E52B7DDD60CC5B46EA2CE4784 /* MGJRouter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F4A14DB202CFD4D40B398BB3C9C29873 /* MGJRouter.framework */; };
+		F826262510783E31C9E7ABD1C48EC52E /* MGJRouter+TXCreateObject.m in Sources */ = {isa = PBXBuildFile; fileRef = CE12886C6763A5D419973656961D0B5A /* MGJRouter+TXCreateObject.m */; };
 		F96D3C98EC5D85D403C10A1C34F22DF2 /* Pods-TXVideoRecordingKit_Tests-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = C83120C2D3F62286662699CAFA89BE21 /* Pods-TXVideoRecordingKit_Tests-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		F9D590CE54B69BDB86E50A97C230A2C6 /* Pods-TXVideoRecordingKit_Tests-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FD8A62BEF366FBCA4BAE9DB9A1FDFE90 /* Pods-TXVideoRecordingKit_Tests-dummy.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		000AFE3FF7E04B2C3054FD851AB36483 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 8A578B1461229AA6ED3A10AF5DBC2F23;
-			remoteInfo = MGJRouter;
-		};
 		11B45FA831C3C509441B049E598FB2BB /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
@@ -81,7 +76,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4E742A8A0C44276E3ADF68683087F0F6;
+			remoteGlobalIDString = 9A95744EB2160D99DBEB4011A7535451;
 			remoteInfo = MGJRouterKit;
 		};
 		44A8A281949448D022266EA263D8B5D1 /* PBXContainerItemProxy */ = {
@@ -102,7 +97,7 @@
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 4E742A8A0C44276E3ADF68683087F0F6;
+			remoteGlobalIDString = 9A95744EB2160D99DBEB4011A7535451;
 			remoteInfo = MGJRouterKit;
 		};
 		EA703D4B36348D4CCA62509C82812C74 /* PBXContainerItemProxy */ = {
@@ -112,79 +107,88 @@
 			remoteGlobalIDString = 8A578B1461229AA6ED3A10AF5DBC2F23;
 			remoteInfo = MGJRouter;
 		};
+		FB1249256BE5B6F87C9CE8A6D63FBF31 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8A578B1461229AA6ED3A10AF5DBC2F23;
+			remoteInfo = MGJRouter;
+		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		029C7212916A148952BF0AB2140205F4 /* MGJRouter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouter-prefix.pch"; sourceTree = "<group>"; };
+		032454CABD9984EF79C1090CFEED795A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		06D8EC2224D6BE2CF6FE5746606F8E2C /* TXVideoRecordingKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "TXVideoRecordingKit-dummy.m"; sourceTree = "<group>"; };
 		0C602284DE7E823DF82A7CF9F03CA239 /* TXVideoRecordingKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TXVideoRecordingKit-umbrella.h"; sourceTree = "<group>"; };
 		12F9865A3616D04DD853AB9F0554F27E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		136D9DDF9B83E039F978007451CDE6FF /* MGJRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MGJRouter.h; path = MGJRouter/MGJRouter.h; sourceTree = "<group>"; };
 		14D899BD4A5BE0208F1C048EBF05AA25 /* Pods-TXVideoRecordingKit_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TXVideoRecordingKit_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		1EC2415C2117CCA0BB3C0C37FD630B41 /* icon_return_n@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_return_n@3x.png"; sourceTree = "<group>"; };
-		22136CEEF28C7DEB17F874AEBFD87928 /* MGJRouter+TXCreateObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MGJRouter+TXCreateObject.h"; path = "MGJRouterKit/Classes/MGJRouter+TXCreateObject.h"; sourceTree = "<group>"; };
+		243330D14D9DF994EE8B4F5EC2A3E794 /* MGJRouter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MGJRouter.modulemap; sourceTree = "<group>"; };
+		2A021FB759765D6E074C3DA10D15C59C /* MGJRouterKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MGJRouterKit.modulemap; sourceTree = "<group>"; };
 		2A96CCDE65B628A452F3D5B3996D3805 /* Pods-TXVideoRecordingKit_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TXVideoRecordingKit_Tests-resources.sh"; sourceTree = "<group>"; };
 		2DAE19361B792F697430F70D2AFFFB6C /* Pods-TXVideoRecordingKit_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TXVideoRecordingKit_Example.release.xcconfig"; sourceTree = "<group>"; };
-		2F92C57AB56D75AA4CA9E76A0C8508BF /* MGJRouter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MGJRouter.xcconfig; sourceTree = "<group>"; };
-		321662FF1B83E0941E74EC4120B61C94 /* MGJRouterKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MGJRouterKit.xcconfig; sourceTree = "<group>"; };
 		32AD4AFCB19979CA67D55F38BF3A1233 /* TXCameraController.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TXCameraController.h; sourceTree = "<group>"; };
 		32D817535D98B1CB3C2D960DA71F31F8 /* MGJRouterKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MGJRouterKit.framework; path = MGJRouterKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		333D1C37BABE66EECC12707A1F8A42F1 /* Pods-TXVideoRecordingKit_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TXVideoRecordingKit_Example-frameworks.sh"; sourceTree = "<group>"; };
+		3562C6EE591FAC3AF37426437DEC166F /* MGJRouterKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouterKit-prefix.pch"; sourceTree = "<group>"; };
 		368B6B47AD1848347E774A14677B7F19 /* TXVideoRecordingModuleRouter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = TXVideoRecordingModuleRouter.m; path = TXVideoRecordingKit/Classes/TXVideoRecordingModuleRouter.m; sourceTree = "<group>"; };
-		368C86CDCDAA5FFF1811E38800BA86DB /* MGJRouter.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MGJRouter.modulemap; sourceTree = "<group>"; };
-		36A5CC82032935806CA1FF27EF9B73B8 /* MGJRouterKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MGJRouterKit-dummy.m"; sourceTree = "<group>"; };
 		3724918D4A3F7A60950CF362D7844BCC /* Pods-TXVideoRecordingKit_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TXVideoRecordingKit_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		3A1C2E4B1CEF4C6F7B5464FBB1BE69B1 /* NSObject+TXTransfer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSObject+TXTransfer.m"; path = "MGJRouterKit/Classes/NSObject+TXTransfer.m"; sourceTree = "<group>"; };
 		407E27AFCB16BB19C31209E93DF6172F /* TXVideoRecordingModuleRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXVideoRecordingModuleRouter.h; path = TXVideoRecordingKit/Classes/TXVideoRecordingModuleRouter.h; sourceTree = "<group>"; };
+		42F07EF0BE901F4DA6E6C8EBFF56ECD6 /* MGJRouter.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MGJRouter.xcconfig; sourceTree = "<group>"; };
 		4331C7CA65FF5339A71B7AF8DA2ABB5D /* MGJRouterKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MGJRouterKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4964372FB0D9773F93CD9D8C25490995 /* Pods-TXVideoRecordingKit_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TXVideoRecordingKit_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		4D7E93E8E415FFD3C28E6963C2C71FEF /* TXVideoRecordingKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = TXVideoRecordingKit.h; path = TXVideoRecordingKit/Classes/TXVideoRecordingKit.h; sourceTree = "<group>"; };
 		4DB95FCB71739E41DB13CFE197D08D5D /* TXPhotoLibraryManager.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TXPhotoLibraryManager.m; sourceTree = "<group>"; };
 		4F1FB9AA3149845FECC3D0B99CC6098F /* TXVideoRecordingKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TXVideoRecordingKit.xcconfig; sourceTree = "<group>"; };
 		521EC0C6702C2EBC6EC12608F39CA41E /* ResourceBundle-TXVideoRecordingKit-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "ResourceBundle-TXVideoRecordingKit-Info.plist"; sourceTree = "<group>"; };
-		536BD28117504A65532B89D00567A14A /* MGJRouter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouter-umbrella.h"; sourceTree = "<group>"; };
-		5CA7344235DD8049D708835171E717D6 /* MGJRouter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MGJRouter.h; path = MGJRouter/MGJRouter.h; sourceTree = "<group>"; };
 		5CACB1DF7F32B47FA4C796D2083B0FA9 /* icon_change@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_change@3x.png"; sourceTree = "<group>"; };
-		5D5342AF98A6C72DAF8EC64E024E4F66 /* MGJRouterKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MGJRouterKit.h; path = MGJRouterKit/Classes/MGJRouterKit.h; sourceTree = "<group>"; };
-		5DAF8302A655B635BCC8C53452B6A735 /* MGJRouterKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MGJRouterKit.modulemap; sourceTree = "<group>"; };
 		5E21D7D1F7557E910716C3C72DBEC0B7 /* icon_return_p@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_return_p@3x.png"; sourceTree = "<group>"; };
 		671508CE095F107801F329B66A0C1D09 /* TXVideoRecordingKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "TXVideoRecordingKit-prefix.pch"; sourceTree = "<group>"; };
+		6C6001CD892B1AB8CEE0498C7A1243CC /* MGJRouterKit.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MGJRouterKit.xcconfig; sourceTree = "<group>"; };
 		6CFD14BC700A8ABD37E31407A1B9633E /* icon_close_@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_close_@2x.png"; sourceTree = "<group>"; };
 		6F6639D2612012DE4FC035DE08D5F462 /* Pods-TXVideoRecordingKit_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TXVideoRecordingKit_Example-umbrella.h"; sourceTree = "<group>"; };
 		715536144DC0D93B96D5D8E9F78541E5 /* TXVideoRecordingKit.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = TXVideoRecordingKit.framework; path = TXVideoRecordingKit.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		72091802C2D84DFE96B600200EF016DD /* NSObject+TXTransfer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSObject+TXTransfer.h"; path = "MGJRouterKit/Classes/NSObject+TXTransfer.h"; sourceTree = "<group>"; };
 		75615D6CE9AF9F2C25A44727F485B5A8 /* Pods_TXVideoRecordingKit_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TXVideoRecordingKit_Tests.framework; path = "Pods-TXVideoRecordingKit_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		77B32224AC41F965855F261FD08129E2 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		7B7514B37D33095C7492F1E62F038C8C /* icon_return_n@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_return_n@2x.png"; sourceTree = "<group>"; };
 		7DBB79F2A3253316789031542BF3DF43 /* TXVideoRecordingKit.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; name = TXVideoRecordingKit.bundle; path = "TXVideoRecordingKit-TXVideoRecordingKit.bundle"; sourceTree = BUILT_PRODUCTS_DIR; };
-		83613E92DCE75C35EFBAAD3D33B7D988 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8638821CC52BD3A5C0C869BAE3FFD9A4 /* MGJRouter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MGJRouter-dummy.m"; sourceTree = "<group>"; };
 		86D8F0D922FB3FE86BB873765C00ACCA /* Pods-TXVideoRecordingKit_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TXVideoRecordingKit_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		8703682101B49046109E6D791B38EF41 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
 		88471B13453C7715F63C31F4E7A725FA /* Pods-TXVideoRecordingKit_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TXVideoRecordingKit_Example.modulemap"; sourceTree = "<group>"; };
 		8D031BFBB9C6366503DD7AE086A978B1 /* TXVideoRecordingKit.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = TXVideoRecordingKit.modulemap; sourceTree = "<group>"; };
 		92574842DD217F54379EAFCABDB578FA /* TXVideoRecordingKit.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; path = TXVideoRecordingKit.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		947E8A6F1702BC03E84F697C585F6582 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9645013994C89AA5419518289C0511A4 /* MGJRouterKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouterKit-umbrella.h"; sourceTree = "<group>"; };
 		968C4A67FA3EB59ED0655F613D94F35D /* icon_change@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_change@2x.png"; sourceTree = "<group>"; };
 		96A1CCBC9FB26ECCA765BEC7D3D466CF /* icon_finish_p@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_finish_p@3x.png"; sourceTree = "<group>"; };
 		9875BCF838FCB82DC7EE00AECE4B5084 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		9FE5D5CBC5E1DE868B9AAB12E389FE55 /* MGJRouterKit-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouterKit-prefix.pch"; sourceTree = "<group>"; };
 		A0202F0751428F5ED5037E382CFDEE66 /* TXCameraButton.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TXCameraButton.h; sourceTree = "<group>"; };
 		A09022E4FDF694D3F7A9BCE531455A17 /* Pods-TXVideoRecordingKit_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TXVideoRecordingKit_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		A0B84390075EC88890C61FCAFBD384D6 /* TXPhotoLibraryManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TXPhotoLibraryManager.h; sourceTree = "<group>"; };
-		A179C47743F733489E590AD6A9E6C3CC /* MGJRouterKit-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouterKit-umbrella.h"; sourceTree = "<group>"; };
-		A35BDCE681E89EF6A5F5879A8C736304 /* MGJRouter+TXCreateObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "MGJRouter+TXCreateObject.m"; path = "MGJRouterKit/Classes/MGJRouter+TXCreateObject.m"; sourceTree = "<group>"; };
 		A47C0089630D4E717F4EC91FD033E153 /* TXCameraController.xib */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = file.xib; path = TXCameraController.xib; sourceTree = "<group>"; };
-		AB50139995E9B3BB723093B7D24B35DD /* MGJRouter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MGJRouter-dummy.m"; sourceTree = "<group>"; };
+		ABFE2D73684D39045D7E764E3727A303 /* MGJRouter+TXCreateObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "MGJRouter+TXCreateObject.h"; path = "MGJRouterKit/Classes/MGJRouter+TXCreateObject.h"; sourceTree = "<group>"; };
 		B47138A087E1C14E47B4C8D16CEA2AE2 /* Pods_TXVideoRecordingKit_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TXVideoRecordingKit_Example.framework; path = "Pods-TXVideoRecordingKit_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B5EFACA55D7146AF4D37685A04E54522 /* icon_close_@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_close_@3x.png"; sourceTree = "<group>"; };
+		BC12A756D660BC81DEC1EB1775303053 /* MGJRouter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MGJRouter.m; path = MGJRouter/MGJRouter.m; sourceTree = "<group>"; };
 		BC492CBFCE60BAA9B7769EB1C2E3038C /* Pods-TXVideoRecordingKit_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TXVideoRecordingKit_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		BED03CD6942E3E54C9295CC20DF524BE /* MGJRouter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MGJRouter.framework; path = MGJRouter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C22CE879A6EE5EA253EF7840CF97D350 /* MGJRouterKit-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MGJRouterKit-dummy.m"; sourceTree = "<group>"; };
+		C3ADEE0756966B23FB16F5BFA15F6F2D /* MGJRouter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouter-umbrella.h"; sourceTree = "<group>"; };
 		C6E5AD99547E43ED005B6B36BE4F694C /* sight_video_focus@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "sight_video_focus@2x.png"; sourceTree = "<group>"; };
 		C83120C2D3F62286662699CAFA89BE21 /* Pods-TXVideoRecordingKit_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TXVideoRecordingKit_Tests-umbrella.h"; sourceTree = "<group>"; };
 		C83CF6AF3530F0D4EB03A73326E716E1 /* Pods-TXVideoRecordingKit_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TXVideoRecordingKit_Tests.modulemap"; sourceTree = "<group>"; };
 		CAFAF759DCACF32288838A99E70E8473 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC058C14427F272786A12CB3A498FBF4 /* MGJRouterKit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = MGJRouterKit.h; path = MGJRouterKit/Classes/MGJRouterKit.h; sourceTree = "<group>"; };
+		CE12886C6763A5D419973656961D0B5A /* MGJRouter+TXCreateObject.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "MGJRouter+TXCreateObject.m"; path = "MGJRouterKit/Classes/MGJRouter+TXCreateObject.m"; sourceTree = "<group>"; };
 		D9B17941139FDA596C89F3149120411D /* TXCameraController.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TXCameraController.m; sourceTree = "<group>"; };
 		DD065EAF0A51D16A7213514B8D2B1746 /* TXCameraButton.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = TXCameraButton.m; sourceTree = "<group>"; };
 		DE695E4D6FD1C07CD7FDDB015B4B40C8 /* sight_video_focus@3x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "sight_video_focus@3x.png"; sourceTree = "<group>"; };
 		E3A766FD899223365E3BA95FF4AA9185 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E4D799B2B9D41CE92563D1AE559359F5 /* MGJRouter-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MGJRouter-prefix.pch"; sourceTree = "<group>"; };
 		E6B827168A4DBEB142F36E16E493F14E /* icon_finish_p@2x.png */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = image.png; path = "icon_finish_p@2x.png"; sourceTree = "<group>"; };
 		E9267BA11E9DACE7B0B4C551A24B0DCD /* Pods-TXVideoRecordingKit_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TXVideoRecordingKit_Example-dummy.m"; sourceTree = "<group>"; };
 		EACF0FA0CBF2D2D85C7A3A07EB4E1A57 /* Pods-TXVideoRecordingKit_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TXVideoRecordingKit_Tests-frameworks.sh"; sourceTree = "<group>"; };
@@ -192,7 +196,7 @@
 		F2D2B34AC04C7E03B26085B8A56608B4 /* Pods-TXVideoRecordingKit_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TXVideoRecordingKit_Example-resources.sh"; sourceTree = "<group>"; };
 		F4A14DB202CFD4D40B398BB3C9C29873 /* MGJRouter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = MGJRouter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F74C88F651B6041BC411E968FA10743A /* Pods-TXVideoRecordingKit_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TXVideoRecordingKit_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		F8E92C2C9F1FEA3E03004051F88AED03 /* MGJRouter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = MGJRouter.m; path = MGJRouter/MGJRouter.m; sourceTree = "<group>"; };
+		FA01540891B2EBE6287EB9774AF6B591 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FD8A62BEF366FBCA4BAE9DB9A1FDFE90 /* Pods-TXVideoRecordingKit_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TXVideoRecordingKit_Tests-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -204,15 +208,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		3C9D43366C145510B686EB7906327BE1 /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				EBFE0F2DEAB732812FDE45F4D66CB34B /* Foundation.framework in Frameworks */,
-				F5954A4E52B7DDD60CC5B46EA2CE4784 /* MGJRouter.framework in Frameworks */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		442A5C030DB7B60F1E4885671F29E9A1 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -220,6 +215,15 @@
 				3072ED2061A560B8348A1EF1066CE860 /* Foundation.framework in Frameworks */,
 				B7F9E27380FBD04AA2EB1E8BF2049DFA /* MGJRouter.framework in Frameworks */,
 				8F5ACEDF3E9D8701D6ADE0338A86DD1D /* MGJRouterKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		950587C87B9CC330DF2965751380C9AF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				E60F0D9572E2E6DC6E2E336C8B28C8B4 /* Foundation.framework in Frameworks */,
+				4B99E56F2F8876C79680450713EFD056 /* MGJRouter.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +264,26 @@
 			name = Pod;
 			sourceTree = "<group>";
 		};
+		1BA6B823AA8CB02716685673CAD43AB5 /* MGJRouter */ = {
+			isa = PBXGroup;
+			children = (
+				136D9DDF9B83E039F978007451CDE6FF /* MGJRouter.h */,
+				BC12A756D660BC81DEC1EB1775303053 /* MGJRouter.m */,
+				8E9BF6361092DFABA96B9CD49A7D956C /* Support Files */,
+			);
+			name = MGJRouter;
+			path = MGJRouter;
+			sourceTree = "<group>";
+		};
+		21BAC5977B5DCD536B4A3C4B5F86999F /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				1BA6B823AA8CB02716685673CAD43AB5 /* MGJRouter */,
+				F672B2F5027ACB1D4E5E23E7A4C7B5FA /* MGJRouterKit */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		2A8DF0BC05DBCEC95DE01C1E57D61946 /* Images */ = {
 			isa = PBXGroup;
 			children = (
@@ -278,20 +302,6 @@
 			);
 			name = Images;
 			path = TXVideoRecordingKit/Classes/Images;
-			sourceTree = "<group>";
-		};
-		377839E065D8063F62275F4DCF3DB4DA /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				947E8A6F1702BC03E84F697C585F6582 /* Info.plist */,
-				5DAF8302A655B635BCC8C53452B6A735 /* MGJRouterKit.modulemap */,
-				321662FF1B83E0941E74EC4120B61C94 /* MGJRouterKit.xcconfig */,
-				36A5CC82032935806CA1FF27EF9B73B8 /* MGJRouterKit-dummy.m */,
-				9FE5D5CBC5E1DE868B9AAB12E389FE55 /* MGJRouterKit-prefix.pch */,
-				A179C47743F733489E590AD6A9E6C3CC /* MGJRouterKit-umbrella.h */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/MGJRouterKit";
 			sourceTree = "<group>";
 		};
 		49BF9FE965B50E8CA0892D6E9E586B26 /* Products */ = {
@@ -350,16 +360,18 @@
 			path = ../..;
 			sourceTree = "<group>";
 		};
-		7CAE3AC62D11EE281F3EDCA710B29F9F /* MGJRouterKit */ = {
+		6F9C57901F0C994CEBB9A59294E56B88 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				22136CEEF28C7DEB17F874AEBFD87928 /* MGJRouter+TXCreateObject.h */,
-				A35BDCE681E89EF6A5F5879A8C736304 /* MGJRouter+TXCreateObject.m */,
-				5D5342AF98A6C72DAF8EC64E024E4F66 /* MGJRouterKit.h */,
-				377839E065D8063F62275F4DCF3DB4DA /* Support Files */,
+				032454CABD9984EF79C1090CFEED795A /* Info.plist */,
+				2A021FB759765D6E074C3DA10D15C59C /* MGJRouterKit.modulemap */,
+				6C6001CD892B1AB8CEE0498C7A1243CC /* MGJRouterKit.xcconfig */,
+				C22CE879A6EE5EA253EF7840CF97D350 /* MGJRouterKit-dummy.m */,
+				3562C6EE591FAC3AF37426437DEC166F /* MGJRouterKit-prefix.pch */,
+				9645013994C89AA5419518289C0511A4 /* MGJRouterKit-umbrella.h */,
 			);
-			name = MGJRouterKit;
-			path = MGJRouterKit;
+			name = "Support Files";
+			path = "../Target Support Files/MGJRouterKit";
 			sourceTree = "<group>";
 		};
 		7DB346D0F39D3F0E887471402A8071AB = {
@@ -368,7 +380,7 @@
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				87BB0D7BF5CEDAB57B564CEF89B649FF /* Development Pods */,
 				50924D9D9E2599A7CC40DFE33388B776 /* Frameworks */,
-				B3A97905C65C78BB4AB1372292A97131 /* Pods */,
+				21BAC5977B5DCD536B4A3C4B5F86999F /* Pods */,
 				49BF9FE965B50E8CA0892D6E9E586B26 /* Products */,
 				DFABFD048CFF7E4CDB4BC8ADD603D0D5 /* Targets Support Files */,
 			);
@@ -382,15 +394,15 @@
 			name = "Development Pods";
 			sourceTree = "<group>";
 		};
-		A0A883B17D2D3D09FDF2F864455EFC89 /* Support Files */ = {
+		8E9BF6361092DFABA96B9CD49A7D956C /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				83613E92DCE75C35EFBAAD3D33B7D988 /* Info.plist */,
-				368C86CDCDAA5FFF1811E38800BA86DB /* MGJRouter.modulemap */,
-				2F92C57AB56D75AA4CA9E76A0C8508BF /* MGJRouter.xcconfig */,
-				AB50139995E9B3BB723093B7D24B35DD /* MGJRouter-dummy.m */,
-				029C7212916A148952BF0AB2140205F4 /* MGJRouter-prefix.pch */,
-				536BD28117504A65532B89D00567A14A /* MGJRouter-umbrella.h */,
+				FA01540891B2EBE6287EB9774AF6B591 /* Info.plist */,
+				243330D14D9DF994EE8B4F5EC2A3E794 /* MGJRouter.modulemap */,
+				42F07EF0BE901F4DA6E6C8EBFF56ECD6 /* MGJRouter.xcconfig */,
+				8638821CC52BD3A5C0C869BAE3FFD9A4 /* MGJRouter-dummy.m */,
+				E4D799B2B9D41CE92563D1AE559359F5 /* MGJRouter-prefix.pch */,
+				C3ADEE0756966B23FB16F5BFA15F6F2D /* MGJRouter-umbrella.h */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/MGJRouter";
@@ -402,15 +414,6 @@
 				77B32224AC41F965855F261FD08129E2 /* Foundation.framework */,
 			);
 			name = iOS;
-			sourceTree = "<group>";
-		};
-		B3A97905C65C78BB4AB1372292A97131 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				D1DBD030DE25CE5975C664B52EF92274 /* MGJRouter */,
-				7CAE3AC62D11EE281F3EDCA710B29F9F /* MGJRouterKit */,
-			);
-			name = Pods;
 			sourceTree = "<group>";
 		};
 		C33A5525E4D0EC3F15F9369AAFA88AF4 /* CoreClasses */ = {
@@ -449,17 +452,6 @@
 			path = "Target Support Files/Pods-TXVideoRecordingKit_Example";
 			sourceTree = "<group>";
 		};
-		D1DBD030DE25CE5975C664B52EF92274 /* MGJRouter */ = {
-			isa = PBXGroup;
-			children = (
-				5CA7344235DD8049D708835171E717D6 /* MGJRouter.h */,
-				F8E92C2C9F1FEA3E03004051F88AED03 /* MGJRouter.m */,
-				A0A883B17D2D3D09FDF2F864455EFC89 /* Support Files */,
-			);
-			name = MGJRouter;
-			path = MGJRouter;
-			sourceTree = "<group>";
-		};
 		DFABFD048CFF7E4CDB4BC8ADD603D0D5 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -483,6 +475,20 @@
 			path = TXVideoRecordingKit/Classes/CoreClasses;
 			sourceTree = "<group>";
 		};
+		F672B2F5027ACB1D4E5E23E7A4C7B5FA /* MGJRouterKit */ = {
+			isa = PBXGroup;
+			children = (
+				ABFE2D73684D39045D7E764E3727A303 /* MGJRouter+TXCreateObject.h */,
+				CE12886C6763A5D419973656961D0B5A /* MGJRouter+TXCreateObject.m */,
+				CC058C14427F272786A12CB3A498FBF4 /* MGJRouterKit.h */,
+				72091802C2D84DFE96B600200EF016DD /* NSObject+TXTransfer.h */,
+				3A1C2E4B1CEF4C6F7B5464FBB1BE69B1 /* NSObject+TXTransfer.m */,
+				6F9C57901F0C994CEBB9A59294E56B88 /* Support Files */,
+			);
+			name = MGJRouterKit;
+			path = MGJRouterKit;
+			sourceTree = "<group>";
+		};
 		FCBEAD8A16988CDD7CF9CF53FAEFA9A6 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -501,6 +507,17 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
+		3B0A67D196D5F9563AD9ACBD1C1705B0 /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				CA75C55775FDF9074B1371D0ED1D353E /* MGJRouter+TXCreateObject.h in Headers */,
+				21F40983D712F4FE5B5652F9F1B96446 /* MGJRouterKit-umbrella.h in Headers */,
+				0F7D6433ECC181D2550FFC791A57D7E1 /* MGJRouterKit.h in Headers */,
+				80FBD12AEFC05B7F0074C2B132639D48 /* NSObject+TXTransfer.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		81CB585C63265B74C4992C725650402D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
@@ -519,16 +536,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				0AEAF53CE6C7BE4D0AAA27D0A86F9694 /* Pods-TXVideoRecordingKit_Example-umbrella.h in Headers */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		BC056BA557CB08652DF4B40407657EA3 /* Headers */ = {
-			isa = PBXHeadersBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				4544B2684390C943546CEAEAEFDA9CF1 /* MGJRouter+TXCreateObject.h in Headers */,
-				F3472313261DDF67831FC2B97FF7CE84 /* MGJRouterKit-umbrella.h in Headers */,
-				C66126CA5786C8E5747C6DF5369453AE /* MGJRouterKit.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -568,24 +575,6 @@
 			productName = "TXVideoRecordingKit-TXVideoRecordingKit";
 			productReference = 7DBB79F2A3253316789031542BF3DF43 /* TXVideoRecordingKit.bundle */;
 			productType = "com.apple.product-type.bundle";
-		};
-		4E742A8A0C44276E3ADF68683087F0F6 /* MGJRouterKit */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 7D1D8B69BA9424F194663B5CE45DE907 /* Build configuration list for PBXNativeTarget "MGJRouterKit" */;
-			buildPhases = (
-				BAB72C290A8F706DAB1DBF8114EF2A46 /* Sources */,
-				3C9D43366C145510B686EB7906327BE1 /* Frameworks */,
-				BC056BA557CB08652DF4B40407657EA3 /* Headers */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				B5CFB27954BC7E48AA4290CD96DE569C /* PBXTargetDependency */,
-			);
-			name = MGJRouterKit;
-			productName = MGJRouterKit;
-			productReference = 32D817535D98B1CB3C2D960DA71F31F8 /* MGJRouterKit.framework */;
-			productType = "com.apple.product-type.framework";
 		};
 		7B3B8E9112930CA4CC6F5534985554D7 /* Pods-TXVideoRecordingKit_Tests */ = {
 			isa = PBXNativeTarget;
@@ -642,6 +631,24 @@
 			productReference = B47138A087E1C14E47B4C8D16CEA2AE2 /* Pods_TXVideoRecordingKit_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
+		9A95744EB2160D99DBEB4011A7535451 /* MGJRouterKit */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2A93F0A18A8B89C94F37A85D5F806615 /* Build configuration list for PBXNativeTarget "MGJRouterKit" */;
+			buildPhases = (
+				E98467ADFCA5F97F5A0C6045CF1CF909 /* Sources */,
+				950587C87B9CC330DF2965751380C9AF /* Frameworks */,
+				3B0A67D196D5F9563AD9ACBD1C1705B0 /* Headers */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				AEDC55E256F03D6C0F30874A056DE60A /* PBXTargetDependency */,
+			);
+			name = MGJRouterKit;
+			productName = MGJRouterKit;
+			productReference = 32D817535D98B1CB3C2D960DA71F31F8 /* MGJRouterKit.framework */;
+			productType = "com.apple.product-type.framework";
+		};
 		A2CC715FD5966A3333B92449845D0CF0 /* TXVideoRecordingKit */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = CE7DF271979FBE330CD127601E3FBDD2 /* Build configuration list for PBXNativeTarget "TXVideoRecordingKit" */;
@@ -685,7 +692,7 @@
 			projectRoot = "";
 			targets = (
 				8A578B1461229AA6ED3A10AF5DBC2F23 /* MGJRouter */,
-				4E742A8A0C44276E3ADF68683087F0F6 /* MGJRouterKit */,
+				9A95744EB2160D99DBEB4011A7535451 /* MGJRouterKit */,
 				93AA5FE709D741F16DA366D5342F80F1 /* Pods-TXVideoRecordingKit_Example */,
 				7B3B8E9112930CA4CC6F5534985554D7 /* Pods-TXVideoRecordingKit_Tests */,
 				A2CC715FD5966A3333B92449845D0CF0 /* TXVideoRecordingKit */,
@@ -741,15 +748,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		BAB72C290A8F706DAB1DBF8114EF2A46 /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				574173215AB4D448706F622B24B98FAB /* MGJRouter+TXCreateObject.m in Sources */,
-				78E12E9EC4CEA99D6FAC961A0091B6F6 /* MGJRouterKit-dummy.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		D4C43D1330793CEC602ED7B0BB890604 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -779,19 +777,29 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
+		E98467ADFCA5F97F5A0C6045CF1CF909 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F826262510783E31C9E7ABD1C48EC52E /* MGJRouter+TXCreateObject.m in Sources */,
+				2D60B093635C823EE230E7E6FF139E3A /* MGJRouterKit-dummy.m in Sources */,
+				CEDBFD158D79075776FCA43874B16C4D /* NSObject+TXTransfer.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
 		4B113CEF8A6862D16601685DC87F6AC4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MGJRouterKit;
-			target = 4E742A8A0C44276E3ADF68683087F0F6 /* MGJRouterKit */;
+			target = 9A95744EB2160D99DBEB4011A7535451 /* MGJRouterKit */;
 			targetProxy = 3536A61915F4236BC4030E082428D515 /* PBXContainerItemProxy */;
 		};
 		691729CDE31C43FE27C99D2F935629D4 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MGJRouterKit;
-			target = 4E742A8A0C44276E3ADF68683087F0F6 /* MGJRouterKit */;
+			target = 9A95744EB2160D99DBEB4011A7535451 /* MGJRouterKit */;
 			targetProxy = E079555A6C6C247E3C2F210B2EA2C46D /* PBXContainerItemProxy */;
 		};
 		A64B68D4B30951C6DF471DC9F8C65DAE /* PBXTargetDependency */ = {
@@ -806,11 +814,11 @@
 			target = 8A578B1461229AA6ED3A10AF5DBC2F23 /* MGJRouter */;
 			targetProxy = 2483485367CABC6B049DAFF792E69B95 /* PBXContainerItemProxy */;
 		};
-		B5CFB27954BC7E48AA4290CD96DE569C /* PBXTargetDependency */ = {
+		AEDC55E256F03D6C0F30874A056DE60A /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MGJRouter;
 			target = 8A578B1461229AA6ED3A10AF5DBC2F23 /* MGJRouter */;
-			targetProxy = 000AFE3FF7E04B2C3054FD851AB36483 /* PBXContainerItemProxy */;
+			targetProxy = FB1249256BE5B6F87C9CE8A6D63FBF31 /* PBXContainerItemProxy */;
 		};
 		B703462D882C5F4A1F57CB27B1D94F99 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
@@ -1040,6 +1048,36 @@
 			};
 			name = Release;
 		};
+		2EB2BD73583B98BD7674A5D193A25273 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 6C6001CD892B1AB8CEE0498C7A1243CC /* MGJRouterKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/MGJRouterKit/MGJRouterKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/MGJRouterKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/MGJRouterKit/MGJRouterKit.modulemap";
+				PRODUCT_MODULE_NAME = MGJRouterKit;
+				PRODUCT_NAME = MGJRouterKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
 		52A45819871C8353C96242C293BAFABE /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 2DAE19361B792F697430F70D2AFFFB6C /* Pods-TXVideoRecordingKit_Example.release.xcconfig */;
@@ -1074,39 +1112,9 @@
 			};
 			name = Release;
 		};
-		95E8A94BF7C3D75B9F67A9157F7E40FD /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 321662FF1B83E0941E74EC4120B61C94 /* MGJRouterKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/MGJRouterKit/MGJRouterKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/MGJRouterKit/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/MGJRouterKit/MGJRouterKit.modulemap";
-				PRODUCT_MODULE_NAME = MGJRouterKit;
-				PRODUCT_NAME = MGJRouterKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		9FABC363DC50979BEFA04DBC76CE39D7 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2F92C57AB56D75AA4CA9E76A0C8508BF /* MGJRouter.xcconfig */;
+			baseConfigurationReference = 42F07EF0BE901F4DA6E6C8EBFF56ECD6 /* MGJRouter.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1134,9 +1142,9 @@
 			};
 			name = Debug;
 		};
-		B333E1AFA23F77E60F920050EA217DE6 /* Release */ = {
+		D5EAC8F89366A181F48984A1480AF5A1 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 321662FF1B83E0941E74EC4120B61C94 /* MGJRouterKit.xcconfig */;
+			baseConfigurationReference = 6C6001CD892B1AB8CEE0498C7A1243CC /* MGJRouterKit.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1167,7 +1175,7 @@
 		};
 		E4255B9CFA2523D2832A53F80284A2B3 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 2F92C57AB56D75AA4CA9E76A0C8508BF /* MGJRouter.xcconfig */;
+			baseConfigurationReference = 42F07EF0BE901F4DA6E6C8EBFF56ECD6 /* MGJRouter.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -1315,6 +1323,15 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
+		2A93F0A18A8B89C94F37A85D5F806615 /* Build configuration list for PBXNativeTarget "MGJRouterKit" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2EB2BD73583B98BD7674A5D193A25273 /* Debug */,
+				D5EAC8F89366A181F48984A1480AF5A1 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		2D8E8EC45A3A1A1D94AE762CB5028504 /* Build configuration list for PBXProject "Pods" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
@@ -1338,15 +1355,6 @@
 			buildConfigurations = (
 				062A58A5F10A11172F653130012A15F9 /* Debug */,
 				2D4CB8C90D9BE28EC104F34EE48D3FF1 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		7D1D8B69BA9424F194663B5CE45DE907 /* Build configuration list for PBXNativeTarget "MGJRouterKit" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				95E8A94BF7C3D75B9F67A9157F7E40FD /* Debug */,
-				B333E1AFA23F77E60F920050EA217DE6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
