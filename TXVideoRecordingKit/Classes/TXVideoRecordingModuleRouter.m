@@ -35,13 +35,13 @@ NSString *const shootCompletionHandlerKey=@"shootCompletionHandler";
 + (UIViewController*)currentViewController{
     UIViewController *currentViewController=[self rootViewController];
     while (currentViewController.presentedViewController) {
-        currentViewController = currentViewController.presentedViewController;
+        currentViewController=currentViewController.presentedViewController;
     }
     if ([currentViewController isKindOfClass:[UITabBarController class]]) {
-        currentViewController = [(UITabBarController *)currentViewController selectedViewController];
+        currentViewController=[(UITabBarController *)currentViewController selectedViewController];
     }
     if ([currentViewController isKindOfClass:[UINavigationController class]]) {
-        currentViewController = [(UINavigationController *)currentViewController topViewController];
+        currentViewController=[(UINavigationController *)currentViewController topViewController];
     }
     return currentViewController;
 }

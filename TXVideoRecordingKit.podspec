@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   # 组件名称
   s.name             = 'TXVideoRecordingKit'
   # 组件版本
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   # 组件概要说明
   s.summary          = '仿微信视频录制以及拍照功能,完全解耦使用“MGJRouterKit”中的open方法即可打开或获取该模块.'
 
