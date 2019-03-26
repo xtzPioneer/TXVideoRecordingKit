@@ -2,7 +2,7 @@ PODS:
   - MGJRouter (0.10.0)
   - MGJRouterKit (0.1.2):
     - MGJRouter
-  - TXVideoRecordingKit (0.1.0):
+  - TXVideoRecordingKit (0.1.1):
     - MGJRouterKit
 
 DEPENDENCIES:
@@ -21,7 +21,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   MGJRouter: 15d94541eb2cc81eff7d577337288feb7ae9575f
   MGJRouterKit: ea405f9da960dff5bca8dfbe31159a01f49bb2a8
-  TXVideoRecordingKit: cc89043560fa08155c2f495a158dc81a9624a378
+  TXVideoRecordingKit: 13cd7be1fdfeb28c550c7e9001c580d52af75a37
 
 PODFILE CHECKSUM: e75bf24fc8923d0b2a31503b101fef4d405dbe7f
 
